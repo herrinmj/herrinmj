@@ -1,7 +1,7 @@
 
 - 🤝 Interested in all things analytics, ed-tech, investing, sustainability, and web3
 - 🌱 Some of what I've been working on recently: \
-          - Tensorflow/Python for recommendation systems and network analysis \
+          - Tensorflow/Python for recommendation systems and network clustering \
           - AWS pipelines for project-development \
           - GraphQL for on-chain querying (Ethereum/Polkadot)
 - 📚 Currently on my reading [list](https://www.goodreads.com/review/list/144484786?shelf=)
