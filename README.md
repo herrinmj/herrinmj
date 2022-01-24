@@ -4,7 +4,7 @@
 - 🌱 What I've been working on: \
           - Tensorflow/Python for recommendation systems and network analysis \
           - AWS pipelines for project-development \
-          - GraphQL for on-chain querying \
+          - GraphQL for on-chain querying (Ethereum/Polkadot)
 - 📚 Currently on my reading list [bookshelf](https://www.goodreads.com/review/list/144484786?shelf=)
 - 📫 How to reach me: [mjherrington8@gmail.com](mailto:mjherrington8@gmail.com)
 
